@@ -1,0 +1,54 @@
+body {
+    background-color: #021526;
+    font-family: "Moderustic", sans-serif;
+    color: white;
+}
+
+.name-text {
+    color: #E2E2B6;
+    font-weight: 600;
+}
+
+h1 span {
+    color: #03346E;
+}
+
+.sub-text,
+.social-sub-text {
+    color: grey;
+    font-size: 12px;
+}
+
+.skill-headtext,
+.project-headtext,
+.social-headtext {
+    color: #E2E2B6;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.skill-card {
+    border: 2px solid #E2E2B6;
+    border-radius: 10px;
+    padding: 20px;
+    margin-right: 10px;
+}
+
+.skill-card img {
+    margin-right: 10px;
+}
+
+.skill-text {
+    color: #6EACDA;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.skill-subtext {
+    color: grey;
+    font-size: 12px;
+}
+
+svg {
+    margin-right: 10px;
+}
